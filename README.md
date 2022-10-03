@@ -6,9 +6,9 @@ In our Microsoft 365 Tenant, devices and users must be enrolled into the tenant 
 
 Only about 2% of this script actually belongs to me, the rest of it was borrowed from other sources around the web
 
-https://tech.nicolonsky.ch/calling-the-microsoft-graph-api/
-https://powershell.works/2022/01/22/upload-files-2-sharepoint-online-using-graph-api/
-https://stackoverflow.com/questions/71424869/using-powershell-to-call-the-graph-api-to-upload-folders-and-files
+https://tech.nicolonsky.ch/calling-the-microsoft-graph-api/ <br>
+https://powershell.works/2022/01/22/upload-files-2-sharepoint-online-using-graph-api/ <br>
+https://stackoverflow.com/questions/71424869/using-powershell-to-call-the-graph-api-to-upload-folders-and-files <br>
 
 The graph app will need application permissions Sites.Read.All, Sites.ReadWrite.All
 
