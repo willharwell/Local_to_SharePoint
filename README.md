@@ -13,7 +13,6 @@ https://stackoverflow.com/questions/71424869/using-powershell-to-call-the-graph-
 The graph app will need application permissions Sites.Read.All, Sites.ReadWrite.All
 
 To Do:
-
-Integrate a refresh token. Large amounts of data may take more than an hour to upload, and the token will expire.
-Sync the local drive and SharePoint site. Currently, the script uploads the directory structure only, it neither removes or renames anything.
-Find a better method of finding only new and changed files and folders to help eliminate errors when trying and failing to overwrite existing folders.
+1. Integrate a refresh token. Large amounts of data may take more than an hour to upload, and the token will expire.
+2. Sync the local drive and SharePoint site. Currently, the script uploads the directory structure only, it neither removes or renames anything.
+3. Find a better method of finding only new and changed files and folders to help eliminate errors when trying and failing to overwrite existing folders.
